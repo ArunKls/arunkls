@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Arun</h1>
 
 ---
-<img align="right" alt="GIF" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas#github-gif-2" />
+<img align="right" alt="GIF" width="300" src="https://github.com/ArunKls/arunkls/blob/main/images/octacat.gif?raw=true" />
 
 - 📓 I'm currently completing my Masters in CS at Rutgers University
 - 🔭 I’m currently working on [Sociogram](https://github.com/arunkls/sociogram-frontend).
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arunkls/" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/a3e0806b067b135eeb7bb6af3dde4bc9754992dc/icons/linkedin.svg" alt="https://www.linkedin.com/in/arunkls/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arunkls/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/arunkls/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arunkls/" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/2f55a5696c3df837997fe19722954c5c52b0e8cc/icons/leetcode.svg" alt="https://leetcode.com/arunkls/" height="30" width="40" /></a>
 </p>
 
